@@ -1,0 +1,13 @@
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.exe
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.deps.json
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.runtimeconfig.json
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.runtimeconfig.dev.json
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.dll
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\bin\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.pdb
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.AssemblyInfoInputs.cache
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.AssemblyInfo.cs
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.csproj.CoreCompileInputs.cache
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.dll
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.pdb
+C:\Users\40771\source\repos\2022_Erdod_Peter_Problema_505\2022_Erdod_Peter_Problema_505\obj\Debug\netcoreapp3.1\2022_Erdod_Peter_Problema_505.genruntimeconfig.cache
