@@ -1,0 +1,14 @@
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csproj.AssemblyReference.cache
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfoInputs.cache
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfo.cs
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csproj.CoreCompileInputs.cache
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.exe
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.deps.json
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.json
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.dev.json
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.dll
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.pdb
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.dll
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.pdb
+D:\2022_Erdodi_Peter_Agoston_Problema_4\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.genruntimeconfig.cache
